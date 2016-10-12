@@ -1,0 +1,14 @@
+{
+  "name": "gerundio",
+  "version": "1.0.0",
+  "description": "Generic Runtime DSL",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^3.1.2"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "models": [
+    "Document",
+    "Constant"
+  ],
+  "keywords": [
+    "True",
+    "False",
+    "Strict"
+  ],
+  "primitive": [
+    "Number",
+    "String",
+    "List",
+    "Colection"
+  ],
+  "comparators": [
+    "Is",
+    "In",
+    "Not",
+    "Last",
+    "First",
+    "More",
+    "Less",
+    "Just"
+  ]
+}
